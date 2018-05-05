@@ -1,0 +1,23 @@
+{
+  "name": "img-learning",
+  "version": "0.0.1",
+  "description": "I am following [this](https://www.youtube.com/watch?v=vT1JzLTH4G4&t=873s) amazing course to try to learn something about Visual Recognition.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'There are no tests yet!'",
+    "dev": "nodemon --exec 'python app/index.py'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianovalente/img-processing-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianovalente/img-processing-learning/issues"
+  },
+  "homepage": "https://github.com/adrianovalente/img-processing-learning#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.4"
+  }
+}
