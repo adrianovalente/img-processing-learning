@@ -202,3 +202,7 @@ pip-selfcheck.json
 
 
 # End of https://www.gitignore.io/api/osx,vim,linux,python,virtualenv,sublimetext
+
+
+# Database
+db/
