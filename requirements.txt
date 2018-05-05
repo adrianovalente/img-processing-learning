@@ -1,6 +1,10 @@
 decorator==4.3.0
+imageio==2.3.0
 ipython-genutils==0.2.0
+numpy==1.14.3
+Pillow==5.1.0
 ptyprocess==0.5.2
+scipy==1.1.0
 six==1.10.0
 terminado==0.5
 tornado==5.0.2
