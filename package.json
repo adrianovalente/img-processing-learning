@@ -4,6 +4,7 @@
   "description": "I am following [this](https://www.youtube.com/watch?v=vT1JzLTH4G4&t=873s) amazing course to try to learn something about Visual Recognition.",
   "main": "index.js",
   "scripts": {
+    "postinstall": "pip install -r requirements.txt && /bin/sh bash/get_database.sh",
     "test": "echo 'There are no tests yet!'",
     "dev": "nodemon -e py --exec 'python app/index.py'"
   },
