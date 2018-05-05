@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo 'There are no tests yet!'",
-    "dev": "nodemon --exec 'python app/index.py'"
+    "dev": "nodemon -e py --exec 'python app/index.py'"
   },
   "repository": {
     "type": "git",
